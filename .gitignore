@@ -128,14 +128,4 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-#files to ignore Sat 2/1/20
-  New Experimental Notebook.ipynb
-        Untitled.ipynb
-        Untitled1.ipynb
-        chi_crimes.csv
-        chi_town.csv
-        crimes.txt
-        spaghetti/
-        test file fix.ipynb
-        test.csv
-
+.DS_Store
